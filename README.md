@@ -1,3 +1,3 @@
 # hello-world
 First repository
-Brief description of self
+This is an updated description of self.
